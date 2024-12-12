@@ -1,1 +1,4 @@
 新建文件夹/test.txt
+.vscode
+.git
+ATM/packages/__pycache__
